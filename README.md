@@ -1,4 +1,4 @@
-# Dead-By-Daylight-Randomizer
+# Dead By Daylight Randomizer
 
 ## **Change Log**
 
