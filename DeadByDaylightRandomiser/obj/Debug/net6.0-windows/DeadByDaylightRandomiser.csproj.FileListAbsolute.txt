@@ -1,0 +1,36 @@
+C:\Users\Shahe\Documents\Coding Stuff\DeadByDaylightRandomiser\DeadByDaylightRandomiser\bin\Debug\net6.0-windows\DeadByDaylightRandomiser.exe
+C:\Users\Shahe\Documents\Coding Stuff\DeadByDaylightRandomiser\DeadByDaylightRandomiser\bin\Debug\net6.0-windows\DeadByDaylightRandomiser.deps.json
+C:\Users\Shahe\Documents\Coding Stuff\DeadByDaylightRandomiser\DeadByDaylightRandomiser\bin\Debug\net6.0-windows\DeadByDaylightRandomiser.runtimeconfig.json
+C:\Users\Shahe\Documents\Coding Stuff\DeadByDaylightRandomiser\DeadByDaylightRandomiser\bin\Debug\net6.0-windows\DeadByDaylightRandomiser.dll
+C:\Users\Shahe\Documents\Coding Stuff\DeadByDaylightRandomiser\DeadByDaylightRandomiser\bin\Debug\net6.0-windows\DeadByDaylightRandomiser.pdb
+C:\Users\Shahe\Documents\Coding Stuff\DeadByDaylightRandomiser\DeadByDaylightRandomiser\obj\Debug\net6.0-windows\DeadByDaylightRandomiser.csproj.AssemblyReference.cache
+C:\Users\Shahe\Documents\Coding Stuff\DeadByDaylightRandomiser\DeadByDaylightRandomiser\obj\Debug\net6.0-windows\DeadByDaylightRandomiser.Form1.resources
+C:\Users\Shahe\Documents\Coding Stuff\DeadByDaylightRandomiser\DeadByDaylightRandomiser\obj\Debug\net6.0-windows\DeadByDaylightRandomiser.Properties.Resources.resources
+C:\Users\Shahe\Documents\Coding Stuff\DeadByDaylightRandomiser\DeadByDaylightRandomiser\obj\Debug\net6.0-windows\DeadByDaylightRandomiser.csproj.GenerateResource.cache
+C:\Users\Shahe\Documents\Coding Stuff\DeadByDaylightRandomiser\DeadByDaylightRandomiser\obj\Debug\net6.0-windows\DeadByDaylightRandomiser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shahe\Documents\Coding Stuff\DeadByDaylightRandomiser\DeadByDaylightRandomiser\obj\Debug\net6.0-windows\DeadByDaylightRandomiser.AssemblyInfoInputs.cache
+C:\Users\Shahe\Documents\Coding Stuff\DeadByDaylightRandomiser\DeadByDaylightRandomiser\obj\Debug\net6.0-windows\DeadByDaylightRandomiser.AssemblyInfo.cs
+C:\Users\Shahe\Documents\Coding Stuff\DeadByDaylightRandomiser\DeadByDaylightRandomiser\obj\Debug\net6.0-windows\DeadByDaylightRandomiser.csproj.CoreCompileInputs.cache
+C:\Users\Shahe\Documents\Coding Stuff\DeadByDaylightRandomiser\DeadByDaylightRandomiser\obj\Debug\net6.0-windows\DeadByDaylightRandomiser.dll
+C:\Users\Shahe\Documents\Coding Stuff\DeadByDaylightRandomiser\DeadByDaylightRandomiser\obj\Debug\net6.0-windows\refint\DeadByDaylightRandomiser.dll
+C:\Users\Shahe\Documents\Coding Stuff\DeadByDaylightRandomiser\DeadByDaylightRandomiser\obj\Debug\net6.0-windows\DeadByDaylightRandomiser.pdb
+C:\Users\Shahe\Documents\Coding Stuff\DeadByDaylightRandomiser\DeadByDaylightRandomiser\obj\Debug\net6.0-windows\DeadByDaylightRandomiser.genruntimeconfig.cache
+C:\Users\Shahe\Documents\Coding Stuff\DeadByDaylightRandomiser\DeadByDaylightRandomiser\obj\Debug\net6.0-windows\ref\DeadByDaylightRandomiser.dll
+C:\Users\Shaheed Ramjohn\Documents\Coding Stuff\DeadByDaylightRandomizer-main\DeadByDaylightRandomiser\bin\Debug\net6.0-windows\DeadByDaylightRandomiser.exe
+C:\Users\Shaheed Ramjohn\Documents\Coding Stuff\DeadByDaylightRandomizer-main\DeadByDaylightRandomiser\bin\Debug\net6.0-windows\DeadByDaylightRandomiser.deps.json
+C:\Users\Shaheed Ramjohn\Documents\Coding Stuff\DeadByDaylightRandomizer-main\DeadByDaylightRandomiser\bin\Debug\net6.0-windows\DeadByDaylightRandomiser.runtimeconfig.json
+C:\Users\Shaheed Ramjohn\Documents\Coding Stuff\DeadByDaylightRandomizer-main\DeadByDaylightRandomiser\bin\Debug\net6.0-windows\DeadByDaylightRandomiser.dll
+C:\Users\Shaheed Ramjohn\Documents\Coding Stuff\DeadByDaylightRandomizer-main\DeadByDaylightRandomiser\bin\Debug\net6.0-windows\DeadByDaylightRandomiser.pdb
+C:\Users\Shaheed Ramjohn\Documents\Coding Stuff\DeadByDaylightRandomizer-main\DeadByDaylightRandomiser\obj\Debug\net6.0-windows\DeadByDaylightRandomiser.csproj.AssemblyReference.cache
+C:\Users\Shaheed Ramjohn\Documents\Coding Stuff\DeadByDaylightRandomizer-main\DeadByDaylightRandomiser\obj\Debug\net6.0-windows\DeadByDaylightRandomiser.Form1.resources
+C:\Users\Shaheed Ramjohn\Documents\Coding Stuff\DeadByDaylightRandomizer-main\DeadByDaylightRandomiser\obj\Debug\net6.0-windows\DeadByDaylightRandomiser.Properties.Resources.resources
+C:\Users\Shaheed Ramjohn\Documents\Coding Stuff\DeadByDaylightRandomizer-main\DeadByDaylightRandomiser\obj\Debug\net6.0-windows\DeadByDaylightRandomiser.csproj.GenerateResource.cache
+C:\Users\Shaheed Ramjohn\Documents\Coding Stuff\DeadByDaylightRandomizer-main\DeadByDaylightRandomiser\obj\Debug\net6.0-windows\DeadByDaylightRandomiser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shaheed Ramjohn\Documents\Coding Stuff\DeadByDaylightRandomizer-main\DeadByDaylightRandomiser\obj\Debug\net6.0-windows\DeadByDaylightRandomiser.AssemblyInfoInputs.cache
+C:\Users\Shaheed Ramjohn\Documents\Coding Stuff\DeadByDaylightRandomizer-main\DeadByDaylightRandomiser\obj\Debug\net6.0-windows\DeadByDaylightRandomiser.AssemblyInfo.cs
+C:\Users\Shaheed Ramjohn\Documents\Coding Stuff\DeadByDaylightRandomizer-main\DeadByDaylightRandomiser\obj\Debug\net6.0-windows\DeadByDaylightRandomiser.csproj.CoreCompileInputs.cache
+C:\Users\Shaheed Ramjohn\Documents\Coding Stuff\DeadByDaylightRandomizer-main\DeadByDaylightRandomiser\obj\Debug\net6.0-windows\DeadByDaylightRandomiser.dll
+C:\Users\Shaheed Ramjohn\Documents\Coding Stuff\DeadByDaylightRandomizer-main\DeadByDaylightRandomiser\obj\Debug\net6.0-windows\refint\DeadByDaylightRandomiser.dll
+C:\Users\Shaheed Ramjohn\Documents\Coding Stuff\DeadByDaylightRandomizer-main\DeadByDaylightRandomiser\obj\Debug\net6.0-windows\DeadByDaylightRandomiser.pdb
+C:\Users\Shaheed Ramjohn\Documents\Coding Stuff\DeadByDaylightRandomizer-main\DeadByDaylightRandomiser\obj\Debug\net6.0-windows\DeadByDaylightRandomiser.genruntimeconfig.cache
+C:\Users\Shaheed Ramjohn\Documents\Coding Stuff\DeadByDaylightRandomizer-main\DeadByDaylightRandomiser\obj\Debug\net6.0-windows\ref\DeadByDaylightRandomiser.dll
